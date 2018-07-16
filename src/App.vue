@@ -142,11 +142,6 @@ export default {
                 this.puzzles.$set(index, '') 
                 this.step++;   
             }
-            console.log("cur"+curNum)
-            console.log(leftNum)
-            console.log(rightNum)
-            console.log(topNum)
-            console.log(bottomNum)
             
             this.passFn()
         },
