@@ -30,7 +30,16 @@
     "webpack-dev-server": "^1.16.0"
   },
   "dependencies": {
+    "minimist": "^1.2.0",
     "vue": "^1.0.18",
     "vue-router": "^0.7.13"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Suzy323/vue-puzzle-master.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Suzy323/vue-puzzle-master/issues"
+  },
+  "homepage": "https://github.com/Suzy323/vue-puzzle-master#readme"
 }
